@@ -10,8 +10,8 @@
         209, 
         228
       ], 
-      "hatchtime": 60, 
-      "raidtime": 45
+      "hatchtime": 15, 
+      "raidtime": 90
     }, 
     "2": {
       "egg": "normal", 
@@ -23,8 +23,8 @@
         215, 
         303
       ], 
-      "hatchtime": 60, 
-      "raidtime": 45
+      "hatchtime": 15, 
+      "raidtime": 90
     }, 
     "3": {
       "egg": "rare", 
@@ -36,8 +36,8 @@
         227, 
         232
       ], 
-      "hatchtime": 60, 
-      "raidtime": 45
+      "hatchtime": 15, 
+      "raidtime": 90
     }, 
     "4": {
       "egg": "rare", 
@@ -48,8 +48,8 @@
         248, 
         359
       ], 
-      "hatchtime": 60, 
-      "raidtime": 45
+      "hatchtime": 15, 
+      "raidtime": 90
     }, 
     "5": {
       "egg": "legendary", 
@@ -59,8 +59,8 @@
         244, 
         245
       ], 
-      "hatchtime": 60, 
-      "raidtime": 45
+      "hatchtime": 15, 
+      "raidtime": 90
     }, 
     "EX": {
       "egg": "EX", 
