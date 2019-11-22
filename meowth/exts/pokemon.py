@@ -17,7 +17,7 @@ class Pokedex:
     def __init__(self, bot):
         self.bot = bot
 
-class Pokemon():
+class Pokemon(commands.Cog):
     """Represents a Pokemon.
 
     This class contains the attributes of a specific pokemon, and
